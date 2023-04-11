@@ -35,6 +35,9 @@ D(
   MX("@", 10, "in1-smtp.messagingengine.com."),
   MX("@", 20, "in2-smtp.messagingengine.com."),
   TXT("@", "v=spf1 include:spf.messagingengine.com ?all"),
+  CNAME("fm1._domainkey", "fm1.openknowledge.be.dkim.fmhosted.com."),
+  CNAME("fm2._domainkey", "fm2.openknowledge.be.dkim.fmhosted.com."),
+  CNAME("fm3._domainkey", "fm3.openknowledge.be.dkim.fmhosted.com."),
 
   TXT("@", "ca3-5760a333489e43b0b1228d2247098580"),
   TXT("@", "google-site-verification=uewZAzrReUIbRjm-A9kIJlQmhQpnRhQOkKMfswpguLo"),
