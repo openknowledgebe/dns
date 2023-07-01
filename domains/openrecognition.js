@@ -2,7 +2,7 @@ D(
   "bebadges.be",
 
   REG_NONE,
-  DnsProvider(DSP_DIGITALOCEAN),
+  DnsProvider(DSP_TRANSIP),
 
   DefaultTTL(3600),
 
@@ -16,7 +16,7 @@ D(
   "edubadges.be",
 
   REG_NONE,
-  DnsProvider(DSP_DIGITALOCEAN),
+  DnsProvider(DSP_TRANSIP),
 
   DefaultTTL(3600),
 
@@ -36,7 +36,7 @@ D(
   "escobadges.eu",
 
   REG_NONE,
-  DnsProvider(DSP_DIGITALOCEAN),
+  DnsProvider(DSP_TRANSIP),
 
   DefaultTTL(3600),
 
@@ -59,7 +59,7 @@ D(
   "openrecognition.be",
 
   REG_NONE,
-  DnsProvider(DSP_DIGITALOCEAN),
+  DnsProvider(DSP_TRANSIP),
 
   DefaultTTL(3600),
 
