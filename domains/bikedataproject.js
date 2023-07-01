@@ -2,7 +2,7 @@ D(
   "bikedataproject.com",
 
   REG_NONE,
-  DnsProvider(DSP_TRANSIP),
+  DnsProvider(DSP_DIGITALOCEAN),
 
   DefaultTTL(86400),
 
@@ -21,7 +21,7 @@ D(
   "bikedataproject.org",
 
   REG_NONE,
-  DnsProvider(DSP_TRANSIP),
+  DnsProvider(DSP_DIGITALOCEAN),
 
   DefaultTTL(86400),
 
